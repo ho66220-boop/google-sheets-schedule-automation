@@ -1,0 +1,11 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary exports
+portfolio_schedule.xlsx
+
+# Apps Script local tooling, if added later
+.clasp.json
+node_modules/
