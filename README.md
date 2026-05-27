@@ -89,7 +89,7 @@
 
 ## 이미지 안내
 
-실제 운영 데이터가 포함될 수 있어 이미지는 아직 저장소에 포함하지 않았습니다. 포트폴리오 제출 전 비식별 캡처를 준비하면 아래 위치에 추가할 수 있습니다.
+실제 운영 데이터가 포함될 수 있어 이미지는 아직 저장소에 포함하지 않았습니다. 추후 샘플 파일을 통해 업로드 예정
 
 > 스크린샷 추가 예정: 수강생 입력 시트 예시  
 > <!-- ![수강생 입력 시트 예시](docs/images/01_input_course_sheet.png) -->
@@ -164,13 +164,9 @@ GPT/Claude/Codex는 코드 초안 작성, 리팩토링 방향 검토, 디버깅 
 - 출석 반영 결과 로그 또는 실행 이력 시트 추가
 - 운영자가 직접 설정값을 바꿀 수 있는 설정 시트 도입
 
-## 포트폴리오용 요약 문구
+## 요약
 
 현장 업무의 반복 입력과 정보 누락 문제를 발견하고, Google Sheets와 Apps Script를 활용해 학생 시간표 생성과 출석 반영을 자동화했습니다. 수강기호 파싱, 예외 일정 처리, 충돌 감지, 수기 입력 보호 로직을 설계하여 주 30분 내외의 작업을 1~2분으로 단축했으며, 전사 AI 활용 우수사례 TOP 6에 선정되었습니다.
-
-## English Summary
-
-This project automates academy schedule and attendance workflows using Google Sheets and Apps Script. It parses course codes from exported enrollment data, generates room-based weekly schedules, detects conflicts with recurring external schedules, and syncs valid schedules to attendance sheets while preserving manual attendance notes.
 
 ## Privacy
 
